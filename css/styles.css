@@ -541,11 +541,11 @@ body {
     transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 
-.modal-close-btn:hover {
+.close-btn:hover {
     fill: #ffffff;
 }
 
-.modal-close-btn:focus {
+.close-btn:focus {
     fill: #ffffff;
 }
 
@@ -561,6 +561,7 @@ body {
 
 .label {
     position: relative;
+    margin-bottom: 8px;
   }
 
 .form-label {
@@ -681,7 +682,3 @@ body {
     border-radius: 4px;
     margin: 0 auto;
   }
-
- /* .send:required {
-    background-color: red;
-  }*/
