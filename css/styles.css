@@ -563,6 +563,10 @@ body {
     position: relative;
   }
 
+.form {
+    margin-bottom: 8px;
+}
+
 .form-label {
     font-weight: 400;
     font-size: 12px;
@@ -574,7 +578,7 @@ body {
   }
 
 .icon-input {
-    margin-bottom: 8px;
+    position: relative;
 }
 
 .form-input {
