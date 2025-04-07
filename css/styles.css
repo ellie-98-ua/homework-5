@@ -562,7 +562,7 @@ input[type="email"]::placeholder {
     pointer-events: none;
 }
 
-.backdrop.is-visible {
+.backdrop.is-open {
     opacity: 1;
     visibility: visible;
     pointer-events: auto;
