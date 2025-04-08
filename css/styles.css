@@ -556,7 +556,7 @@ input[type="email"]::placeholder {
     fill: #fff;
 }
 
-/*.backdrop {
+.backdrop {
     width: 100%;
     height: 100%;
     background-color: rgba(46, 47, 66, 0.4);
@@ -567,7 +567,7 @@ input[type="email"]::placeholder {
     opacity: 0;
     visibility: hidden;
     pointer-events: none;
-}*/
+}
 
 .backdrop.is-open {
     opacity: 1;
